@@ -1,27 +1,27 @@
 
 {
-	"name": "WhatsAppBot-MD",
+	"name": "tanjiro",
 	"description": "Fully Costamisable Bot by, Alien-Alfa.",
-	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
+	"repository": "",
 	"website": "https://small-sharp-tool.com/",
-	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
+	"logo": "",
+	"keywords": ["Tanjiro"],
 	
 	"env": { 
     "OWNER_NUMBER": {
-            "description": "Pleas enter Number Of the Owner.",
+            "description": "~Aman",
             "required": false,
-            "value": "447405935255"
+            "value": "9860356594"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alien"
+            "value": "Aman"
         }, 
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "~Aman"
         }, 
      "PREMIUM": {
             "description": "Premium user number (leave it if you Wish to use the default)",
