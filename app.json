@@ -10,7 +10,7 @@
 	"env": { 
     "OWNER_NUMBER": {
             "description": "~Aman",
-            "required": false,
+            "required": #,
             "value": "9860356594"
         }, 
 	"S_PACK": {
